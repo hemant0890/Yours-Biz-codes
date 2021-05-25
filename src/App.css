@@ -1,0 +1,80 @@
+.App {
+  position: absolute;
+  width: 1269px;
+
+  left: 50%;
+  top: 12%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+
+  border-radius: 0.761716px;
+  background-position: fixed;
+ 
+}
+
+.middle1 {
+  display: block;
+}
+.middle2 {
+  display: block;
+  width: 476px;
+  height: 126px;
+  left: 194px;
+  top: 440px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  /* or 116% */
+
+  color: #a94977;
+}
+
+input[type="radio"] {
+  display: none;
+}
+.star {
+  cursor: pointer;
+  width: 51.72px;
+height: 51.73px;
+   padding: 10px;  
+  transition: color 200ms;
+}
+.starContainer {
+  display: inline-block;
+  width: 140px;
+height: 130px;
+  margin: 0px 17.6px; 
+  /*padding: 0 50px; */ 
+
+  background-color: #88c299;
+  text-align: center;
+}
+
+.starRating {
+  display: flex;
+position: absolute;
+width: 876px;
+height: 130px;
+left: 194px;
+top: 1372px;
+  /* background: #88c299; */
+}
+
+.starText {
+ 
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 23px;
+
+  /* identical to box height, or 167% */
+
+  color: #ffffff;
+  /* identical to box height, or 167% */
+}
+

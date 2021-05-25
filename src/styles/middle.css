@@ -1,0 +1,169 @@
+.bg {
+  position: absolute;
+  width: 1292px;
+  height: 301px;
+  left: -20px;
+  top: 66px;
+
+  background: #a76466;
+}
+/* .polygon-1 {
+  position: absolute;
+  width: 314.86px;
+  height: 314.86px;
+  left: 66px;
+  top: 187.47px;
+
+  background: #c4c4c4;
+  border: 8px solid #ffffff;
+  box-sizing: border-box;
+  transform: rotate(-37.33deg);
+} */
+.text1 {
+  position: absolute;
+  width: 476px;
+  height: 126px;
+  left: 194px;
+  top: 440px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+
+  /* or 116% */
+
+  color: #a94977;
+}
+
+.text2 {
+  position: absolute;
+  width: 514px;
+  height: 71px;
+  left: 192px;
+  top: 607px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+
+  /* or 130% */
+
+  color: #595959;
+}
+.text3 {
+  position: absolute;
+  width: 476px;
+  height: 47px;
+  left: 192px;
+  top: 711px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+
+  /* or 130% */
+
+  color: #595959;
+}
+
+.review-header {
+  position: absolute;
+  width: 57px;
+  height: 24px;
+  left: 196px;
+  top: 859px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+
+  /* identical to box height, or 130% */
+
+  color: #263238;
+}
+
+.text-area {
+  position: absolute;
+  width: 878px;
+  height: 310px;
+  left: 192px;
+  top: 896px;
+
+  background: #fafafa;
+  border: 2px solid #c4c4c4;
+  box-sizing: border-box;
+}
+
+.submitButton {
+  position: absolute;
+  width: 157px;
+  height: 43.83px;
+  left: 913px;
+  top: 1596px;
+
+  background: #455a64;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.submitText {
+  position: absolute;
+  width: 107px;
+  height: 24px;
+  left: 22px;
+  top: -3px;
+  z-index: 100;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 23px;
+
+  /* identical to box height, or 167% */
+
+  color: #ffffff;
+}
+
+.photoshoot {
+  position: absolute;
+  width: 572.8px;
+  height: 380.21px;
+  left: 728px;
+  top: 409px;
+}
+
+.rateLabel {
+  position: absolute;
+  width: 170px;
+  height: 24px;
+  left: 192px;
+  top: 1315px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+
+  /* identical to box height, or 130% */
+
+  color: #595959;
+}
+.image7{
+  
+  position: absolute;
+  left: 5.11%;
+  
+  top: -22.87%;
+
+
+
+}
+
